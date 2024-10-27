@@ -72,6 +72,8 @@ body {
     background-color: var(--bs-body-bg);
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent
+    background: rgb(2,0,36);
+    background: linear-gradient(131deg, rgba(2,0,36,1) 0%, rgba(24,212,53,1) 82%);
 }
 
 hr {
